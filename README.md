@@ -20,7 +20,8 @@ Noted That the year is based on the date that the crime was reported and not the
 2. Create a virtual enviroment. 
     - python3 -m venv venv 
 3. Activate the virtual enviroment.
-    - Linux/Mac - source venv/bin/activate   - GitBash - source venv/Scripts/activate  
+    - Linux/Mac - source venv/bin/activate
+    - GitBash - source venv/Scripts/activate  
 4.Install the requirment packages.
     - pip istall -r requirement.txt
 5. Deactivate the virtual enviroment when you are done with repo.
