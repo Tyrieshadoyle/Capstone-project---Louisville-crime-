@@ -18,6 +18,7 @@ Noted That the year is based on the date that the crime was reported and not the
 ### Virutal enviroment/Instrution
 1. Clone repo to your machine. Then change into the project folder in GitBash/Terminal.
 2. Create a virtual enviroment. 
+<<<<<<< HEAD
     - python3 -m venv venv 
 3. Activate the virtual enviroment.
     - Linux/Mac - source venv/bin/activate   - GitBash - source venv/Scripts/activate
@@ -25,10 +26,24 @@ Noted That the year is based on the date that the crime was reported and not the
     - pip istall -r requirement.txt
 5. Deactivate the virtual enviroment when you are done with repo.
     - deactivate 
+=======
+     -python3 -m venv venv 
+3. Activate the virtual enviroment.
+   -Linux/Mac - source venv/bin/activate
+   -GitBash - source venv/Scripts/activate
+4. Install the requirment packages.
+   -pip istall -r requirement.txt
+5. Deactivate the virtual enviroment when you are done with repo.
+   -deactivate 
+>>>>>>> refs/remotes/origin/main
 
 ### Features
 1. Loading Data - Reading in a CSV file 
 2. Cleaning Data - Droping columns, renamed columns, and merging dataset together 
 3. Visualize Data - Made 3 different visualizations on the data 
 4. Best Practices - Included instructions on virtual environment setup, built a custom data dictionary 
+<<<<<<< HEAD
 5. Interpretation - Included a final anaylsis in the data_visalization file
+=======
+5. Interpretation - Included a final anaylsis in the data_visalization file
+>>>>>>> refs/remotes/origin/main
